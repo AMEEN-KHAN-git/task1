@@ -4,7 +4,7 @@ Day 1 task of the Data Analyst Internship
 # Data Cleaning Task
 
 ## Dataset Used
-Customer Personality Analysis (Kaggle)
+Customer Personality Analysis (Kaggle - https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis)
 
 ## Cleaning Steps:
 - Handled missing values
